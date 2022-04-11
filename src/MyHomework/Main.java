@@ -6,5 +6,6 @@ public class Main {
         w.init();
         System.out.println("徐少杰的修改");
         System.out.println("周冕的修改");
+        System.out.println("样例演示");
     }
 }
